@@ -1,25 +1,25 @@
-## Objectif
+## Objective
 
-Ce projet consiste à créer une application web simulant un tirage de loto, permettant de générer des numéros aléatoires comme dans un jeu de loterie.
-
----
-
-## Contexte
-
-Ce projet a été réalisé dans le cadre de ma formation afin de pratiquer les bases du JavaScript, notamment la manipulation du DOM et la génération de nombres aléatoires.
+This project consists of creating a web application simulating a lottery draw, allowing the generation of random numbers as in a lottery game.
 
 ---
 
-## Fonctionnalités
+## Context
 
-* Génération de numéros aléatoires
-* Affichage dynamique des résultats
-* Interaction utilisateur (bouton pour lancer le tirage)
-* Mise à jour en temps réel des numéros
+This project was carried out as part of my training in order to practice the basics of JavaScript, particularly DOM manipulation and random number generation.
 
 ---
 
-## Technologies utilisées
+## Features
+
+* Generation of random numbers
+* Dynamic display of results
+* User interaction (button to launch the draw)
+* Real-time update of numbers
+
+---
+
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -27,33 +27,33 @@ Ce projet a été réalisé dans le cadre de ma formation afin de pratiquer les 
 
 ---
 
-## Compétences développées
+## Skills Developed
 
-* Manipulation du DOM
-* Gestion des événements (click, interactions)
-* Génération de nombres aléatoires
-* Structuration d’un script JavaScript
-
----
-
-## Ce que j’ai appris
-
-* Créer des fonctionnalités interactives en JavaScript
-* Dynamiser une page web sans framework
-* Comprendre la logique d’un jeu simple
+* DOM manipulation
+* Event handling (click, interactions)
+* Random number generation
+* Structuring a JavaScript script
 
 ---
 
-## Améliorations possibles
+## What I Learned
 
-* Ajouter une animation lors du tirage
-* Limiter les doublons dans les numéros
-* Ajouter un historique des tirages
-* Améliorer le design UI
+* Creating interactive features in JavaScript
+* Making a web page dynamic without a framework
+* Understanding the logic of a simple game
 
 ---
 
-## Auteur
+## Possible Improvements
 
-Annabelle
-GitHub : https://github.com/Annabelle-m
+* Add animation during the draw
+* Limit duplicates in the numbers
+* Add a history of draws
+* Improve the UI design
+
+---
+
+## Author
+
+Annabelle  
+GitHub: https://github.com/Annabelle-m
